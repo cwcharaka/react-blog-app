@@ -10,7 +10,7 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-	> clone the repositary 
+	> git clone https://github.com/cwcharaka/react-blog-app.git 
 	> cd blog-app
 	> npm install
 	> npm start
